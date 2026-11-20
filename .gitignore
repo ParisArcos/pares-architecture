@@ -1,0 +1,6 @@
+# Public portfolio: track only the reviewed files listed below.
+*
+!/.gitignore
+!/README.md
+!/functional-flow.svg
+!/technical-architecture.svg

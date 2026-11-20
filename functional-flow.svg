@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 780" width="1440" height="780" role="img" aria-labelledby="title desc">
+<title id="title">Flujo funcional del portal</title><desc id="desc">El periodo documental se confirma antes de publicar. Los documentos fuera del periodo se excluyen. Los hechos respaldados avanzan mientras los dudosos se revisan.</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7.5" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#2c6590"/></marker><marker id="ochre" markerWidth="8" markerHeight="8" refX="7.5" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#a25127"/></marker><marker id="teal" markerWidth="8" markerHeight="8" refX="7.5" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#31766e"/></marker></defs>
+<g font-family="Arial, Liberation Sans, sans-serif"><path d="M0 0H1440V780H0Z" fill="#fff"/><text x="46" y="36" fill="#1e5986" font-size="14" font-weight="700" text-anchor="start">PARES  ·  FIGURA 01</text>
+<text x="46" y="73" fill="#17344b" font-size="33" font-weight="700" text-anchor="start">Flujo funcional del portal</text>
+<text x="46" y="102" fill="#486479" font-size="16" font-weight="400" text-anchor="start">Desde el escaneo original hasta una respuesta con evidencia</text>
+<rect x="46" y="125" width="1348" height="330" rx="17" fill="#fcf2e9" stroke="#ecd5c1"/>
+<text x="66" y="154" fill="#91491e" font-size="18" font-weight="700" text-anchor="start">Ingesta y publicación de hechos</text>
+<rect x="69" y="194" width="148" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="82" y="220" fill="#17344b" font-size="16" font-weight="700">Cargar escaneo</text>
+<text x="82" y="241" fill="#486479" font-size="13.5">Administrador</text>
+<rect x="238" y="194" width="141" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="251" y="220" fill="#17344b" font-size="16" font-weight="700">Validar carga</text>
+<text x="251" y="241" fill="#486479" font-size="13.5">Una versión por</text>
+<text x="251" y="258" fill="#486479" font-size="13.5">reserva</text>
+<rect x="400" y="194" width="135" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="413" y="220" fill="#17344b" font-size="16" font-weight="700">Poner en cola</text>
+<text x="413" y="241" fill="#486479" font-size="13.5">Trabajo pendiente</text>
+<rect x="556" y="194" width="145" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="569" y="220" fill="#17344b" font-size="16" font-weight="700">Leer y extraer</text>
+<text x="569" y="241" fill="#486479" font-size="13.5">OCR o HTR</text>
+<text x="569" y="258" fill="#486479" font-size="13.5">Hechos y fuentes</text>
+<path d="M732 231L820 178L908 231L820 284Z" fill="#fff" stroke="#ecd5c1" stroke-width="1.7"/>
+<text x="820" y="227" fill="#17344b" font-size="16" font-weight="700" text-anchor="middle">¿En el periodo?</text>
+<text x="820" y="247" fill="#486479" font-size="13.5" text-anchor="middle">Fecha o intervalo</text>
+<path d="M975 231L1063 178L1151 231L1063 284Z" fill="#fff" stroke="#ecd5c1" stroke-width="1.7"/>
+<text x="1063" y="227" fill="#17344b" font-size="16" font-weight="700" text-anchor="middle">¿Tiene respaldo?</text>
+<text x="1063" y="247" fill="#486479" font-size="13.5" text-anchor="middle">Por cada dato</text>
+<rect x="1217" y="194" width="149" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="1230" y="220" fill="#17344b" font-size="16" font-weight="700">Publicar hechos</text>
+<text x="1230" y="241" fill="#486479" font-size="13.5">Hechos y pasajes</text>
+<text x="1230" y="258" fill="#486479" font-size="13.5">en el índice</text>
+<rect x="69" y="324" width="290" height="70" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="82" y="350" fill="#17344b" font-size="16" font-weight="700">Recuperar cargas sin confirmar</text>
+<text x="82" y="371" fill="#486479" font-size="13.5">Validar versión y permiso vigente</text>
+<rect x="700" y="324" width="222" height="70" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="713" y="350" fill="#17344b" font-size="16" font-weight="700">Revisión archivística</text>
+<text x="713" y="371" fill="#486479" font-size="13.5">Retener el documento</text>
+<text x="713" y="388" fill="#486479" font-size="13.5">Confirmar el periodo</text>
+<rect x="950" y="324" width="226" height="70" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="963" y="350" fill="#17344b" font-size="16" font-weight="700">Revisar el dato</text>
+<text x="963" y="371" fill="#486479" font-size="13.5">Comparar con el escaneo</text>
+<rect x="1217" y="324" width="149" height="70" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="1230" y="350" fill="#17344b" font-size="16" font-weight="700">Retener dato</text>
+<text x="1230" y="371" fill="#486479" font-size="13.5">Rechazo o plazo</text>
+<path d="M214 324V296H309V268" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M217 231H238" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M379 231H400" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M535 231H556" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M701 231H732" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M908 231H975" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="942" y="220" fill="#91491e" font-size="13" font-weight="700" text-anchor="middle">Sí</text>
+<path d="M1151 231H1217" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="1184" y="220" fill="#91491e" font-size="13" font-weight="700" text-anchor="middle">Sí</text>
+<rect x="957" y="134" width="170" height="32" rx="8" fill="#fff" stroke="#ecd5c1" stroke-width="1.35"/>
+<text x="971" y="155" fill="#17344b" font-size="15" font-weight="700">Excluir documento</text>
+<path d="M820 178V150H957" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="827" y="143" fill="#91491e" font-size="11.5" font-weight="700">Fuera de 1500–1600</text>
+<path d="M820 284V324" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="873" y="307" fill="#91491e" font-size="13" font-weight="700" text-anchor="middle">Por confirmar</text>
+<path d="M922 342H937V269H845" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<path d="M1063 284V324" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="1082" y="307" fill="#91491e" font-size="13" font-weight="700" text-anchor="middle">No</text>
+<path d="M1176 338H1195V293H1291V268" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="1296" y="310" fill="#91491e" font-size="13" font-weight="700" text-anchor="middle">Aprobado</text>
+<path d="M1176 375H1217" fill="none" stroke="#a25127" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ochre)"/>
+<text x="68" y="426" fill="#91491e" font-size="15">Una vez confirmado el periodo, los datos respaldados avanzan mientras se revisan los dudosos.</text>
+<rect x="46" y="476" width="1348" height="205" rx="17" fill="#edf5fc" stroke="#c9dced"/>
+<text x="66" y="505" fill="#1e5986" font-size="18" font-weight="700" text-anchor="start">Consulta del usuario</text>
+<rect x="69" y="555" width="175" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="82" y="582" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Entrar al portal</text>
+<text x="82" y="603" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Identidad federada</text>
+<rect x="306" y="518" width="203" height="61" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="319" y="545" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Explorar hechos</text>
+<text x="319" y="566" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Intervalos, tipos y entidades</text>
+<rect x="306" y="597" width="203" height="61" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="319" y="624" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Preguntar</text>
+<text x="319" y="645" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Lenguaje natural</text>
+<rect x="576" y="518" width="235" height="61" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="589" y="545" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Consultar el índice</text>
+<text x="589" y="566" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Ficha y resumen del hecho</text>
+<rect x="576" y="597" width="235" height="61" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="589" y="624" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Recuperar y comprobar</text>
+<text x="589" y="645" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Solo evidencia vigente</text>
+<rect x="902" y="555" width="207" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="915" y="582" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Responder con citas</text>
+<text x="915" y="603" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Datos, dudas o ausencias</text>
+<rect x="1182" y="555" width="183" height="74" rx="10" fill="#fff" stroke="#ccdce6" stroke-width="1.35"/>
+<text x="1195" y="582" fill="#17344b" font-size="16" font-weight="700" text-anchor="start">Entregar respuesta</text>
+<text x="1195" y="603" fill="#486479" font-size="13.5" font-weight="400" text-anchor="start">Texto o PDF a petición</text>
+<text x="1195" y="620" fill="#486479" font-size="13.5">Revalidar acceso y fuentes</text>
+<path d="M244 592H272V548H306" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M272 592V627H306" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M509 548H576" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M509 627H576" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M811 548H859V579H902" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M811 627H859V605H902" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M1109 592H1182" fill="none" stroke="#2c6590" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#blue)"/>
+<path d="M1366 245H1380V463H1010V476" fill="none" stroke="#31766e" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#teal)" stroke-dasharray="5 4"/>
+<text x="1180" y="451" fill="#22615c" font-size="12.5" font-weight="700" text-anchor="middle">El índice publicado alimenta ambos buscadores</text>
+<rect x="46" y="700" width="1348" height="56" rx="17" fill="#ecf6f3" stroke="#cee3dc"/>
+<text x="66" y="729" fill="#22615c" font-size="18" font-weight="700" text-anchor="start">Administración</text>
+<text x="225" y="729" fill="#22615c" font-size="15" font-weight="400" text-anchor="start">Gestión de usuarios  ·  Calibración de modelos  ·  Trazas e informes de utilización</text>
+</g></svg>
